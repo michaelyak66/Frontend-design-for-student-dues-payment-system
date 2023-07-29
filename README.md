@@ -30,8 +30,7 @@ As this project is a frontend design, there is no installation required. You can
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/student-dues-payment-design.git
-```
+git@github.com:michaelyak66/Frontend-design-for-student-dues-payment-system.git```
 
 2. Open the `index.html` file in your preferred web browser.
 
